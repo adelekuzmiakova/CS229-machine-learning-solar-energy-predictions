@@ -1,6 +1,8 @@
 # CS229 Project Files
 
-by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all files from our CS229 project. Course notes are available at https://see.stanford.edu/course/cs229
+by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all project files. Course notes are available from the course website at http://cs229.stanford.edu/ or https://see.stanford.edu/course/cs229. 
+
+**Goal:**
 
 This is our final project for the CSS229: "Machine Learning" class in Stanford (2017). Our teachers were Pr. Andrew Ng and Pr. Dan Boneh.
 
