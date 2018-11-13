@@ -12,4 +12,4 @@ The project had 3 main parts:
 
 * **Feature selection:** we run the correlation analysis between the weather features and the energy output to discard useless features. Additionally, we implemented Principal Component Analysis (PCA) to reduce the dimensionality of our dataset. Finally, using gradient boosting, we obtained estimates of feature importance from a trained predictive model.
 
-* **Machine learning:** We started with simple models, such as 
+* **Machine learning:** We started with simple models, such as weighted linear regression and PCA. Additionally, we used generalized boosting methods, which build an ensemble of shallow and week successive trees where each tree is learning and improving from the previous ones. Finally, we experimented with implementation of neural networks with and without vanishing temporal gradient.
