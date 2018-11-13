@@ -6,16 +6,10 @@ by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanfor
 
 **tl;dr:** LSTM networks performed the best for the prediction of the solar energy due to their abilities to connect recent features to perform present day predicitions.
 
-This is our final project for the CSS229: "Machine Learning" class in Stanford (2017). Our teachers were Pr. Andrew Ng and Pr. Dan Boneh.
+The project had 3 main parts:
 
-Language: Python, Matlab, R
+* **Data pre-processing:** we processed the raw weather data inpuits from the National Oceanographic and Atmospheric Administration and the solar energy output files from Urbana-Champaign solar farm in order to get meaningful numeric values with hourly and daily resolutions. 
 
-Goal: predict the hourly power production of a photovoltaic power station from the measurements of a set of weather features.
+* **Feature selection:** we run the correlation analysis between the weather features and the energy output to discard useless features. Additionally, we implemented Principal Component Analysis (PCA) to reduce the dimensionality of our dataset. Finally, using gradient boosting, we obtained estimates of feature importance from a trained predictive model.
 
-This project could be decomposed in 3 parts:
-
-* Bullet 1
-* Bullet 2
-  * Bullet 2a
-  * Bullet 2b
-* Bullet 3
+* **Machine learning:** We started with simple models, such as 
