@@ -1,4 +1,4 @@
-# CS229 Project Files
+# Machine learning for solar energy predictions
 
 by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all project files used for CS229 class in Autumn quarter 2017. Course notes are available from the course website at http://cs229.stanford.edu/ or https://see.stanford.edu/course/cs229. 
 
