@@ -1,5 +1,9 @@
 ## Predicting solar energy using machine learning: CS 229 project
 
+<img src="assets/cs229-project-poster.png" width="540" height="360" />
+
+[Poster](https://adelekuzmiakova.medium.com/how-to-render-3d-files-using-pytorch3d-ef9de72483f8?source=friends_link&sk=d89816e7e6f338dfc68da836757e149d), [Report]()
+
 by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all project files used for CS229 class in Autumn quarter 2017. Course notes are available from the course website at http://cs229.stanford.edu/ or https://see.stanford.edu/course/cs229. 
 
 **Goal:** Predict the solar energy output from a solar power plant at the University of Illinois using weather features and local meta-data, for instance, the month or the hour of the day.
@@ -18,4 +22,4 @@ One thing that probably would be very important is not randomizing examples. In 
 
 ## Updating/Contributing 👋
 
-This project was done in autumn 2017 and was not updated since then. If anything feels off or is outdated (which is very likely!), feel free to open an issue or submit a pull request to the project.
+This project was done in autumn 2017 and was not updated since then. If anything feels off or looks outdated (which is very likely!), feel free to open an issue or submit a pull request to the project. Thanks! :)
