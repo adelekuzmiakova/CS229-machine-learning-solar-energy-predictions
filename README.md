@@ -1,6 +1,6 @@
 ## Predicting solar energy using machine learning: CS 229 project
 
-<img src="assets/cs229-project-poster.png" width="648" height="432" />
+<img src="assets/cs229-project-poster.png" width="756" height="460" />
 
 [Poster](https://github.com/adelekuzmiakova/CS229-machine-learning-solar-energy-predictions/blob/master/assets/cs229-project-poster.png), [Report](https://github.com/adelekuzmiakova/CS229-machine-learning-solar-energy-predictions/blob/master/cs229-final-report.pdf)
 
