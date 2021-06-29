@@ -18,4 +18,4 @@ One thing that probably would be very important is not randomizing examples. In 
 
 ## Updating/Contributing 👋
 
-This project was done in autumn 2017 and was not updated since then. If anything feels off or is outdated (which is very likely!), feel free to open an issue or submitting a pull request to the project.
+This project was done in autumn 2017 and was not updated since then. If anything feels off or is outdated (which is very likely!), feel free to open an issue or submit a pull request to the project.
