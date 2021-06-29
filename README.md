@@ -1,8 +1,8 @@
 ## Predicting solar energy using machine learning: CS 229 project
 
-<img src="assets/cs229-project-poster.png" width="540" height="360" />
+<img src="assets/cs229-project-poster.png" width="594" height="396" />
 
-[Poster](https://adelekuzmiakova.medium.com/how-to-render-3d-files-using-pytorch3d-ef9de72483f8?source=friends_link&sk=d89816e7e6f338dfc68da836757e149d), [Report]()
+[Poster](https://github.com/adelekuzmiakova/CS229-machine-learning-solar-energy-predictions/blob/master/assets/cs229-project-poster.png), [Report](https://github.com/adelekuzmiakova/CS229-machine-learning-solar-energy-predictions/blob/master/cs229-final-report.pdf)
 
 by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all project files used for CS229 class in Autumn quarter 2017. Course notes are available from the course website at http://cs229.stanford.edu/ or https://see.stanford.edu/course/cs229. 
 
