@@ -1,4 +1,4 @@
-# Machine learning for solar energy predictions
+## Predicting solar energy using machine learning: CS 229 project
 
 by Adele Kuzmiakova, Gael Colas, and Alex McKeehan, graduate students at Stanford University. This repo contains all project files used for CS229 class in Autumn quarter 2017. Course notes are available from the course website at http://cs229.stanford.edu/ or https://see.stanford.edu/course/cs229. 
 
@@ -16,3 +16,6 @@ The project had 3 main parts:
 
 One thing that probably would be very important is not randomizing examples. In our project we shuffled all examples and randomly split them into train/dev/test sets (60/20/20). It might be better to use sequences of data to advantage of short-term weather dependence. For instance, weather conditions yesterday would dictate weather conditions today to some extent (e.g. we do not expect to encounter a significant temperature gradient overnight). As a result, instead of randomizing our examples, we could have considered them sequentially and attempted to predict the solar output for next day ahead from its immediately preceding one or two neighbors.
 
+## Updating/Contributing 👋
+
+This project was done in autumn 2017 and was not updated since then. If anything feels off or is outdated (which is very likely!), feel free to open an issue or submitting a pull request to the project.
